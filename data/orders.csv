@@ -1,6 +1,0 @@
-PO_Number,Vendor,Supplier,PO_Quantity,Open_Quantity,Open_Value,Due_Date,Material
-testPO1316,ven-024,"Stopper, seals and septa supplier",15140,15140,1723.9918,2026-02-17,"13MM SEPTA, PTFE/SIL"
-testPO1337,ven-017,Plastic closures ,3737,3737,403.89496,2026-02-17,"70-400 CAP, PP WHT, PV LINER"
-testPO1345,ven-017,Plastic closures ,2877,2877,2838.62082,2026-02-17,"89-400 CAP, PP WHT, PTFE FCD/FMD PE LNR."
-testPO1390,ven-028,Lab Equipment & analytical ,2038,2038,247.73928,2026-02-16,"MICROCAP 1UL,32MM, 100/vial x 10 vls/CS"
-testPO1400,ven-001,Glass manufacturer,20152,20152,439.71664,2026-02-17,"POUR RING,CLR,PP"
